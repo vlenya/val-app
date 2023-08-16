@@ -20,3 +20,10 @@ I love automating tasks in my environment.
 ```
 ps -eaf
 ```
+
+### creating a table of tools with rating
+
+| tools name | rating |
+|------------|--------|
+| unix | 4 |
+| github | 3 |
