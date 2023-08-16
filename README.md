@@ -15,3 +15,8 @@ I love automating tasks in my environment.
 - docker
 - grafana
 
+# command to list processes
+
+```
+ps -eaf
+```
