@@ -14,6 +14,7 @@ I love automating tasks in my environment.
 - assnsible
 - docker
 - grafana
+- Azure devops
 
 # command to list processes
 
