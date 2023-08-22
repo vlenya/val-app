@@ -11,9 +11,12 @@ I love automating tasks in my environment.
 - unix
 - shell
 - terraform
-- assnsible
+- ansible
 - docker
 - grafana
+- Shell scripting
+- Monitoring tools
+- 
 
 # command to list processes
 
