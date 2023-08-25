@@ -1,2 +1,3 @@
 creating stag txt file from the local
 This is again a nice way to do some of the stuffs using git from the local rpos.
+Ok that's awesome and i love the way you did automate that particular task.
