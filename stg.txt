@@ -1,1 +1,2 @@
 creating stag txt file from the local
+This is again a nice way to do some of the stuffs using git from the local rpos.
